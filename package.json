@@ -1,0 +1,27 @@
+{
+  "name": "full_youtube_clone-2022",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "dev": "nodemon --exec babel-node src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/helen1031/full_youtube_clone-2022.git"
+  },
+  "author": "hjilee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/helen1031/full_youtube_clone-2022/issues"
+  },
+  "homepage": "https://github.com/helen1031/full_youtube_clone-2022#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.19.6",
+    "@babel/node": "^7.19.1",
+    "@babel/preset-env": "^7.19.4",
+    "nodemon": "^2.0.20"
+  }
+}
